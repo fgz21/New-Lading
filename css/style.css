@@ -1,0 +1,29 @@
+body, html{
+	padding: 0;
+	margin: 0;
+	height: 100%;
+
+}
+body{
+	background:url('../img/bg.jpg');
+	background-size: cover;
+	color: #fff;
+}
+
+.logo{
+	height: 40px;
+	margin-top: 20px;
+
+}
+
+
+.text-description{
+	letter-spacing: 2px;
+	font-family: sans-serif;
+}
+
+i {
+	color: #fff;
+	font-size: 35px;
+	
+}
